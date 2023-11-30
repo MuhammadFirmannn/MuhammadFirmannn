@@ -54,10 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Muhammadfirmannn/Muhammadfirmannn/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Muhammadfirmannn/count.svg?"  />
 </div>
