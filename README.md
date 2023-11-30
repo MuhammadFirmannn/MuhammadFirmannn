@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammadfirmannn.Muhammadfirmannn&"  />
-</div>
-
-###
-
 <h1 align="center">Hii, Nice to meet you</h1>
 
 ###
