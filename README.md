@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- My name is Firman<br>- i'm have interest in programming and playing games<br>- i'm currently learning about c and studying at Universitas Negeri Padang</p>
+<p align="left">- My name is Firman<br>- i'm have interest in programming and playing games<br>- i'm currently learning about c and studying at Universitas Negeri Padang<br>- you can also reach me at muhammadfirman0904@gmail.com</p>
 
 ###
 
@@ -55,9 +55,7 @@
 ###
 
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MuhammadFirmannn&label=Profile%20Views&color=6&icon=3&pretty=true" height="40" />
-</a>
+  <img src="https://profile-counter.glitch.me/Muhammadfirmannn/count.svg?"  />
 </div>
 
 ###
